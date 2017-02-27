@@ -1,5 +1,5 @@
 # PPG
-Code to estimate HR from PPG signals using Wiener filter, phase vocoder and Viterbi decoding for the PPG dataset of 23 recordings
+Code to estimate HR from PPG signals using Wiener filter, phase vocoder and Viterbi decoding for the dataset of 23 PPG recordings
 http://zhilinzhang.com/spcup2015/data.html
 
 The results reported in "Accurate Wearable Heart Rate Monitoring During Physical Exercises Using PPG," IEEE Transactions on Biomedical Engineering, 2017:
