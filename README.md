@@ -1,2 +1,2 @@
 # PPG
-Code to estimate HR from PPG signals using Wiener filter and Phase vocoder
+Code to estimate HR from PPG signals using Wiener filter, Phase vocoder and Viterbi decoding.
